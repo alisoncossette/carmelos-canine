@@ -5,6 +5,10 @@ A Track 3 — Robotics submission.
 
 > Carmelo is 97 and lives alone. **Carmelo's Canine** is a quadruped service robot that walks his home, picks up what he drops, and delivers his medications — reducing falls and keeping him out of the nursing home. When something feels wrong, his grandson can teleop in remotely from three states away.
 
+![Carmelo at home — reading by the window, walker beside him](carmelo_home.webp)
+
+> *This is Carmelo. He's 97 and lives alone in his apartment. The walker beside him is the reason we built this.*
+
 ---
 
 ## Demo
