@@ -156,8 +156,8 @@ Hardware: Unitree Go2 Air · Seeed reBot Arm B601-DM · Damiao DM4310/DM4340P se
 
 ![The Carmelo's Canine team](20260426_172809%280%29.jpg)
 
-- **Sameer Shah** — Team Leader
-- Arjun Kumar
 - Abid Ramay
 - Alison Cossette
+- Arjun Kumar
 - Nico Musitu
+- Sameer Shah
