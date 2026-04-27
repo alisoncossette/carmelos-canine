@@ -19,7 +19,7 @@ A Track 3 — Robotics submission.
 
 **What's honest about it:** driving is teleoperated, the pickup is a recorded trajectory replay. The hardware loop closes. The body works. The skill works. **It's a primitive, not a product** — but it's the smallest version of this that's *real*.
 
-[**📊 View the pitch deck →**](carmelo-deck.html)
+[**📊 View the live pitch deck →**](https://alisoncossette.github.io/carmelos-canine/carmelo-deck.html)
 
 ---
 
